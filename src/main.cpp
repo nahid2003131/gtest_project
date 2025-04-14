@@ -1,5 +1,5 @@
 #include "headers.h"
-
+//this is main
 int main() {
     Logger& logger1 = Logger::getInstance();
     Logger& logger2 = Logger::getInstance();
