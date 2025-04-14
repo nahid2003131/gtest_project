@@ -1,0 +1,5 @@
+/home/nahid/Code/gtest-project/build/CMakeFiles/main.dir
+/home/nahid/Code/gtest-project/build/CMakeFiles/testsuite.dir
+/home/nahid/Code/gtest-project/build/CMakeFiles/test.dir
+/home/nahid/Code/gtest-project/build/CMakeFiles/edit_cache.dir
+/home/nahid/Code/gtest-project/build/CMakeFiles/rebuild_cache.dir
